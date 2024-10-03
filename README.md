@@ -11,5 +11,5 @@
 1. Clone repositori:
    ```bash
    git clone https://github.com/Fiqri317/NeonGate.git
-2. Buka index.html di browser Anda untuk melihat tampilan proyek.
+2. Buka **index.html** di browser Anda untuk melihat tampilan proyek.
 Silakan modifikasi sesuai kebutuhan!
